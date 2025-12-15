@@ -1,0 +1,8 @@
+# Output Directory
+
+This folder contains your generated strategy outputs:
+
+- `1-discovery-output.md` - AI-generated career path recommendations (Step 2)
+- `2-final-strategy.md` - Complete market-validated career strategy (Step 3)
+
+These files are generated when you run the framework prompts with an AI assistant.
