@@ -1,6 +1,6 @@
-# Career Compass Framework
+# Introduction
 
-A structured, AI-assisted career strategy framework for career transitions and professional development.
+Detailed guide for the Career Compass Framework.
 
 ## Overview
 
@@ -18,7 +18,8 @@ Step 3: Final Strategy      → Market-validated action plan with 90-day roadmap
 
 | File | Purpose |
 |------|---------|
-| `1-README.md` | This file - overview and instructions |
+| `README.md` | Quick start guide |
+| `1-INTRODUCTION.md` | This file - detailed instructions |
 | `2-QUESTIONS.md` | 85 comprehensive career questions (complete first) |
 | `3-DISCOVERY-PROMPT.md` | AI prompt for career path recommendations |
 | `4-FINAL-STRATEGY-PROMPT.md` | AI prompt for market research and final strategy |
@@ -57,7 +58,8 @@ Step 3: Final Strategy      → Market-validated action plan with 90-day roadmap
 
 ```
 career-compass-framework/
-├── 1-README.md
+├── README.md
+├── 1-INTRODUCTION.md
 ├── 2-QUESTIONS.md
 ├── 3-DISCOVERY-PROMPT.md
 ├── 4-FINAL-STRATEGY-PROMPT.md
